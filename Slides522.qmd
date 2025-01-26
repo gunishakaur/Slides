@@ -1,0 +1,37 @@
+---
+title: "Vancouver Tree Height (Geographical Analysis)"
+format: revealjs
+author: "DSCI 542 - Derek Rogers, Gunisha Kaur, Jessie Zhang, Zheng He"
+---
+## Introduction and Dataset Overview
+
+### Importance of Urban Trees
+- 🌳 Urban trees are essential to creating livable cities.
+- 🌟 Benefits include:
+  - 🌬️ Improving air quality
+  - 🌞 Providing shade
+  - 🐦 Supporting biodiversity
+  - 🏙️ Enhancing urban environments.
+
+### Dataset Overview
+- 📊 Source: Vancouver Open Data Portal (2022).  <a href="https://opendata.vancouver.ca/explore/dataset/street-trees/table/?disjunctive.neighbourhood_name&disjunctive.on_street&disjunctive.species_name&disjunctive.common_name&location=11,49.2565,-123.12999&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkNPVU5UIiwieUF4aXMiOiJoZWlnaHRfcmFuZ2VfaWQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMDI3OUIxIn1dLCJ4QXhpcyI6ImRhdGVfcGxhbnRlZCIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6InllYXIiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJzdHJlZXQtdHJlZXMiLCJvcHRpb25zIjp7ImRpc2p1bmN0aXZlLm5laWdoYm91cmhvb2RfbmFtZSI6dHJ1ZSwiZGlzanVuY3RpdmUub25fc3RyZWV0Ijp0cnVlLCJkaXNqdW5jdGl2ZS5zcGVjaWVzX25hbWUiOnRydWUsImRpc2p1bmN0aXZlLmNvbW1vbl9uYW1lIjp0cnVlfX19XSwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D">Street Trees</a>
+---
+
+## Statistical Question and Methods 
+
+### Key Question
+- ❓ Do tree heights vary significantly across Vancouver neighborhoods?
+
+### Methods
+- 🛠️ For Analysis variations among trees around neighbourhood used Exploratory Data Analysis (EDA) for pattern identification and Chi-squared tests for statistical validation.
+
+---
+
+## Significance
+
+### Significance of our Findings
+- 🌲 **Urban Forestry Strategies**:
+  - 🌍 Guide equitable distribution of greenery benefits like shade and air quality improvement.
+  - 🛤️ Inform tree planting, maintenance, and sustainable urban planning.
+- 🏗️ **Applications**:
+  - 🔍 Enable informed decision-making for urban sustainability efforts.
